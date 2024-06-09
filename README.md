@@ -1,7 +1,4 @@
-# Halo semua! 
+# Hi there
 
-Perkenalkan nama saya **Zia Shafira**.\
-
-Saya murid di  Android Learning Path di [Dicoding] (https://www.dicoding.com/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zia-shafira/)  ku ya.
+Welcome to my GitHub profile! I'm a student at Jakarta State Polytechnic  full of enthusiasm always eager to continue to learn new things and innovate. Interested in UI/UX and have experiences in Developing Website Front-End and Android mobile. 
 
